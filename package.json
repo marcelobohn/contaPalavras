@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/marcelobohn/contaPalavras/issues"
   },
-  "homepage": "https://github.com/marcelobohn/contaPalavras#readme"
+  "homepage": "https://github.com/marcelobohn/contaPalavras#readme",
+  "dependencies": {
+    "code": "^4.0.0",
+    "lab": "^13.1.0"
+  }
 }
